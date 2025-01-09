@@ -33,6 +33,7 @@ SmartLine is an advanced AI-powered automation platform designed to replace trad
 ## **Project Overview**
 
 SmartLine is designed to streamline and automate call center operations, reducing the need for human intervention while maintaining high levels of customer satisfaction. By leveraging AI technologies, SmartLine provides a cost-efficient and scalable solution for businesses of all sizes.
+
 ---
 
 ## **Inbound and Outbound Call System**
